@@ -42,7 +42,7 @@ All paths in the code are my local absolute paths. You need download the dataset
 ### 1. California House Price Prediction
 
 - **Goal**: Predict housing prices in California.
-- **File**:['ca_houseprice.py'](./ca_houseprice.py)
+- **File**:[`ca_houseprice.py`](./ca_houseprice.py)
 - **Approach**:
   - Fully connected layers.
   - ReLU activations.
