@@ -17,7 +17,7 @@ Special thanks to the Kaggle community and the deep learning course taught by Mu
 
 Here are the Kaggle competitions I participated in, and the corresponding coed files in this repository:
 
-1. **[California House Price Prediction](https://www.kaggle.com/competitions/california-house-prices)** - ['ca_houseprice.py'](./ca_houseprice.py)
+1. **[California House Price Prediction](https://www.kaggle.com/competitions/california-house-prices)** - [`ca_houseprice.py`](./ca_houseprice.py)
 2. **[CIFAR-10 Image Classification](https://www.kaggle.com/competitions/cifar-10)** - [`cifar10.py`](./cifar10.py)
 3. **[Leaves Classification](https://www.kaggle.com/competitions/classify-leaves)** - [`leaves_classify.py`](./leaves_classify.py)
 4. **[House Price Linear Regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)** - [`house_prices_linear.py`](./house_prices_linear.py)
